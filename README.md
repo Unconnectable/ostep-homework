@@ -1,3 +1,7 @@
+# 中文版对应的作业链接
+
+- [第4章 进程 模拟作业](/solutions/Part1:%20Virtualization/第4章%20抽象:进程%20模拟作业.md)
+
 # Homeworks
 
 Each chapter has some questions at the end; we call these "homeworks", because you should do the "work" at your "home". Make sense? It's one of the innovations of this book.
